@@ -1,0 +1,53 @@
+{ 
+    "Profiles": [
+        {
+            "user" : "Salem", 
+            "workspaces": [
+                {
+                    "workspace" : 1,
+                    "programsToOpen" : [
+                            {"brave" : "C:\\Users\\salem\\Obsidian-1.8.10.exe"},
+                            {"minecraft" : "C:\\XboxGames\\Minecraft Launcher\\Content\\Minecraft.exe"}
+                        ]
+                },
+
+                {
+                    "workspace" : 2,
+                    "programsToOpen" : [
+                        {"obsidian" : "C:\\Program Files\\Obsidian\\Obsidian.exe"}
+                    ]
+                },
+
+                {
+                    "workspace" : 3,
+                    "programsToOpen" : []
+                }
+            ]
+        },
+
+        {
+            "user" : "Salem2", 
+            "workspaces": [
+                {
+                    "workspace" : 1,
+                    "programsToOpen" : [
+                            {"brave" : "C:\\Users\\salem\\Obsidian-1.8.10.exe"},
+                            {"minecraft" : "C:\\XboxGames\\Minecraft Launcher\\Content\\Minecraft.exe"}
+                        ]
+                },
+
+                {
+                    "workspace" : 2,
+                    "programsToOpen" : [
+                        {"obsidian" : "C:\\Program Files\\Obsidian\\Obsidian.exe"}
+                    ]
+                },
+
+                {
+                    "workspace" : 3,
+                    "programsToOpen" : []
+                }
+            ]
+        }
+    ]
+}
