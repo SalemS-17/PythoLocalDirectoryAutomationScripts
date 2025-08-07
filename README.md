@@ -13,9 +13,9 @@ Workspaces is a python automation script which automatically opens and closses c
 
 Within a config file is the large grouping of profiles, this grouping holds multiple users, each of which with their own workspaces and programs to open and close when finished. The hierarchy looks as follows:
 
-- **Profiles**
-  - **Users**
-    - **Workspaces**
+> **Profiles**
+> > **Users**
+> > > **Workspaces**
 
 The code is based on the json file being of this structure so it is imperative to keep this structure 
 
