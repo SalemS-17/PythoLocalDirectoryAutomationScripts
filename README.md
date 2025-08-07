@@ -14,7 +14,7 @@ Within a config file is the large grouping of profiles, this grouping holds mult
 
 - **Profiles**
   - **Users**
-   - **Workspaces**
+    - **Workspaces**
 
 The code is based on the json file being of this structure so it is imperative to keep this structure 
 
